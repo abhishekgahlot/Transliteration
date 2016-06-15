@@ -1,0 +1,19 @@
+{
+  "name": "transliterationhinglish",
+  "version": "1.0.0",
+  "description": "Translating hinglish to meaningful english.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekgahlot/Transliteration.git"
+  },
+  "author": "Abhishek gahlot <abhishek@hackerrank.com> (http://abhishek.it)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekgahlot/Transliteration/issues"
+  },
+  "homepage": "https://github.com/abhishekgahlot/Transliteration#readme"
+}
